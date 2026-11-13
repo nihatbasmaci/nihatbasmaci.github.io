@@ -23,11 +23,11 @@ https://nihatbasmaci.github.io/apex-demo/apex/live/brisa-music/index.m3u8
 https://nihatbasmaci.github.io/apex-demo/apex/live/quarra-life/index.m3u8
 #EXTINF:-1 tvg-id="drava-arts" tvg-name="Drava Arts" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-drava-arts.png" group-title="Entertainment",Drava Arts
 https://nihatbasmaci.github.io/apex-demo/apex/live/drava-arts/index.m3u8
-#EXTINF:-1 tvg-name="Sintel (2010)" group-title="Movies",Sintel (2010)
+#EXTINF:-1 tvg-name="Sintel (2010)" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-sintel.jpg" group-title="Movies",Sintel (2010)
 https://archive.org/download/Sintel_201809/Sintel.MP4
-#EXTINF:-1 tvg-name="Tears of Steel (2012)" group-title="Movies",Tears of Steel (2012)
+#EXTINF:-1 tvg-name="Tears of Steel (2012)" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-tears-of-steel.jpg" group-title="Movies",Tears of Steel (2012)
 https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mkv
-#EXTINF:-1 tvg-name="Cosmos Laundromat (2015)" group-title="Movies",Cosmos Laundromat (2015)
+#EXTINF:-1 tvg-name="Cosmos Laundromat (2015)" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-cosmos-laundromat.jpg" group-title="Movies",Cosmos Laundromat (2015)
 https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20(1080p).mp4
 #EXTINF:-1 tvg-name="Halvenor" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-halvenor.jpg" group-title="Movies",Halvenor
 https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=halvenor

@@ -1,0 +1,79 @@
+#EXTM3U url-tvg="https://nihatbasmaci.github.io/apex-demo/apex/epg.xml" catchup="append" catchup-days="7" catchup-source="?utc={utc}&lutc={lutc}"
+#EXTINF:-1 tvg-id="kelvra-news" tvg-name="Kelvra News" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-kelvra-news.png" group-title="News",Kelvra News
+https://nihatbasmaci.github.io/apex-demo/apex/live/kelvra-news/index.m3u8
+#EXTINF:-1 tvg-id="kavren-24" tvg-name="Kavren 24" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-kavren-24.png" group-title="News",Kavren 24
+https://nihatbasmaci.github.io/apex-demo/apex/live/kavren-24/index.m3u8
+#EXTINF:-1 tvg-id="nimbo-weather" tvg-name="Nimbo Weather" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-nimbo-weather.png" group-title="News",Nimbo Weather
+https://nihatbasmaci.github.io/apex-demo/apex/live/nimbo-weather/index.m3u8
+#EXTINF:-1 tvg-id="orvane-docs" tvg-name="Orvane Docs" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-orvane-docs.png" group-title="Documentary",Orvane Docs
+https://nihatbasmaci.github.io/apex-demo/apex/live/orvane-docs/index.m3u8
+#EXTINF:-1 tvg-id="ostra-science" tvg-name="Ostra Science" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-ostra-science.png" group-title="Documentary",Ostra Science
+https://nihatbasmaci.github.io/apex-demo/apex/live/ostra-science/index.m3u8
+#EXTINF:-1 tvg-id="saffra-travel" tvg-name="Saffra Travel" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-saffra-travel.png" group-title="Documentary",Saffra Travel
+https://nihatbasmaci.github.io/apex-demo/apex/live/saffra-travel/index.m3u8
+#EXTINF:-1 tvg-id="halyn-one" tvg-name="Halyn One" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-halyn-one.png" group-title="Entertainment",Halyn One
+https://nihatbasmaci.github.io/apex-demo/apex/live/halyn-one/index.m3u8
+#EXTINF:-1 tvg-id="zentro-plus" tvg-name="Zentro Plus" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-zentro-plus.png" group-title="Entertainment",Zentro Plus
+https://nihatbasmaci.github.io/apex-demo/apex/live/zentro-plus/index.m3u8
+#EXTINF:-1 tvg-id="talven-classics" tvg-name="Talven Classics" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-talven-classics.png" group-title="Entertainment",Talven Classics
+https://nihatbasmaci.github.io/apex-demo/apex/live/talven-classics/index.m3u8
+#EXTINF:-1 tvg-id="brisa-music" tvg-name="Brisa Music" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-brisa-music.png" group-title="Entertainment",Brisa Music
+https://nihatbasmaci.github.io/apex-demo/apex/live/brisa-music/index.m3u8
+#EXTINF:-1 tvg-id="quarra-life" tvg-name="Quarra Life" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-quarra-life.png" group-title="Entertainment",Quarra Life
+https://nihatbasmaci.github.io/apex-demo/apex/live/quarra-life/index.m3u8
+#EXTINF:-1 tvg-id="drava-arts" tvg-name="Drava Arts" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/logo-drava-arts.png" group-title="Entertainment",Drava Arts
+https://nihatbasmaci.github.io/apex-demo/apex/live/drava-arts/index.m3u8
+#EXTINF:-1 tvg-name="Sintel (2010)" group-title="Movies",Sintel (2010)
+https://archive.org/download/Sintel_201809/Sintel.MP4
+#EXTINF:-1 tvg-name="Tears of Steel (2012)" group-title="Movies",Tears of Steel (2012)
+https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mkv
+#EXTINF:-1 tvg-name="Cosmos Laundromat (2015)" group-title="Movies",Cosmos Laundromat (2015)
+https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20(1080p).mp4
+#EXTINF:-1 tvg-name="Halvenor" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-halvenor.jpg" group-title="Movies",Halvenor
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=halvenor
+#EXTINF:-1 tvg-name="Ostravine" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-ostravine.jpg" group-title="Movies",Ostravine
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip2.mp4?item=ostravine
+#EXTINF:-1 tvg-name="Morvessa" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-morvessa.jpg" group-title="Movies",Morvessa
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip3.mp4?item=morvessa
+#EXTINF:-1 tvg-name="Vaelith S01E01" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-vaelith.jpg" group-title="Series",Vaelith S01E01
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=vaelith-s01e01
+#EXTINF:-1 tvg-name="Vaelith S01E02" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-vaelith-s01e02.jpg" group-title="Series",Vaelith S01E02
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip2.mp4?item=vaelith-s01e02
+#EXTINF:-1 tvg-name="Vaelith S01E03" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-vaelith-s01e03.jpg" group-title="Series",Vaelith S01E03
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip3.mp4?item=vaelith-s01e03
+#EXTINF:-1 tvg-name="Vaelith S01E04" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-vaelith-s01e04.jpg" group-title="Series",Vaelith S01E04
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=vaelith-s01e04
+#EXTINF:-1 tvg-name="Vaelith S01E05" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-vaelith-s01e05.jpg" group-title="Series",Vaelith S01E05
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip2.mp4?item=vaelith-s01e05
+#EXTINF:-1 tvg-name="Vaelith S01E06" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-vaelith-s01e06.jpg" group-title="Series",Vaelith S01E06
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip3.mp4?item=vaelith-s01e06
+#EXTINF:-1 tvg-name="Vaelith S02E01" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-vaelith-s02e01.jpg" group-title="Series",Vaelith S02E01
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=vaelith-s02e01
+#EXTINF:-1 tvg-name="Vaelith S02E02" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-vaelith-s02e02.jpg" group-title="Series",Vaelith S02E02
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip2.mp4?item=vaelith-s02e02
+#EXTINF:-1 tvg-name="Vaelith S02E03" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-vaelith-s02e03.jpg" group-title="Series",Vaelith S02E03
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip3.mp4?item=vaelith-s02e03
+#EXTINF:-1 tvg-name="Vaelith S02E04" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-vaelith-s02e04.jpg" group-title="Series",Vaelith S02E04
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=vaelith-s02e04
+#EXTINF:-1 tvg-name="Kestrune S01E01" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-kestrune.jpg" group-title="Series",Kestrune S01E01
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=kestrune-s01e01
+#EXTINF:-1 tvg-name="Kestrune S01E02" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-kestrune-s01e02.jpg" group-title="Series",Kestrune S01E02
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip2.mp4?item=kestrune-s01e02
+#EXTINF:-1 tvg-name="Kestrune S01E03" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-kestrune-s01e03.jpg" group-title="Series",Kestrune S01E03
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip3.mp4?item=kestrune-s01e03
+#EXTINF:-1 tvg-name="Kestrune S01E04" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-kestrune-s01e04.jpg" group-title="Series",Kestrune S01E04
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=kestrune-s01e04
+#EXTINF:-1 tvg-name="Kestrune S01E05" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-kestrune-s01e05.jpg" group-title="Series",Kestrune S01E05
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip2.mp4?item=kestrune-s01e05
+#EXTINF:-1 tvg-name="Kestrune S01E06" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-kestrune-s01e06.jpg" group-title="Series",Kestrune S01E06
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip3.mp4?item=kestrune-s01e06
+#EXTINF:-1 tvg-name="Nimbrel S01E01" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/poster-nimbrel.jpg" group-title="Series",Nimbrel S01E01
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=nimbrel-s01e01
+#EXTINF:-1 tvg-name="Nimbrel S01E02" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-nimbrel-s01e02.jpg" group-title="Series",Nimbrel S01E02
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip2.mp4?item=nimbrel-s01e02
+#EXTINF:-1 tvg-name="Nimbrel S01E03" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-nimbrel-s01e03.jpg" group-title="Series",Nimbrel S01E03
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip3.mp4?item=nimbrel-s01e03
+#EXTINF:-1 tvg-name="Nimbrel S01E04" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-nimbrel-s01e04.jpg" group-title="Series",Nimbrel S01E04
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip1.mp4?item=nimbrel-s01e04
+#EXTINF:-1 tvg-name="Nimbrel S01E05" tvg-logo="https://nihatbasmaci.github.io/apex-demo/apex/img/still-nimbrel-s01e05.jpg" group-title="Series",Nimbrel S01E05
+https://nihatbasmaci.github.io/apex-demo/apex/vod/clip2.mp4?item=nimbrel-s01e05
